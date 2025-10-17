@@ -3,7 +3,7 @@
 ## Usage
 To run in a terminal:
 ```bash
-docker run -p 8081:8081 -v ~/.nexus-data:/nexus-data ghcr.io/whateverany-3m/3m-sonatype/sonatype-nexus:0.0.0
+docker run -p 8081:8081 -v ~/.nexus-data:/nexus-data ghcr.io/whateverany-org/3m-sonatype/sonatype-nexus:0.0.0
 ```
 
 First ever run may require:
